@@ -1,0 +1,7 @@
+requests
+ollama
+FastAPI
+uvicorn
+pydantic
+pdfminer.six
+python-multipart    
